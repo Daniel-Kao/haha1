@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "nodemon",
+    "version": "lerna version --conventional-commits --yes"
   },
   "keywords": [],
   "author": "",
